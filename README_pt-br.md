@@ -47,3 +47,11 @@ Para executar linhas de comando do NPM, execute o comando <code>npm run "nome-da
 - Lembre-se de manter a sequência do seu programa para evitar problemas.
 
 ---
+## Ciclo de vida de Promisses
+
+- **Pending:** Estado inicial, ainda não terminou ou ainda não foi rejeitado.
+- **Fulfilled:** Quando executou todas as operações com sucesso.
+- **Rejected:** Quando a operação falhou.
+
+---
+
