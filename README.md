@@ -49,3 +49,10 @@ To execute line commands with NPM it is used the command <code>npm run "name-of-
 - Remember to keep the sequence of your program to avoid problems.
 
 ---
+## Life cicle of Promisses
+
+- **Pending:** Initial state, not yet finished or not rejected yet.
+- **Fulfilled:** After performing all operations successfully.
+- **Rejected:** Operation failed.
+
+---
