@@ -56,3 +56,20 @@ To execute line commands with NPM it is used the command <code>npm run "name-of-
 - **Rejected:** Operation failed.
 
 ---
+## Promises - ASYNC/AWAIT
+
+**Async** The word “async” before a function means that this function always returns a promise.
+**Await** it just works only inside async functions and makes JavaScript wait until that promise settles and returns its result.
+
+- It makes it easy for the visualization of the flow of functions.
+- It does not change the performance of your application (if used correctly).
+- Already existing in C # was developed in JavaScript.
+- Use only when you need to wait for the call's answer (Await).
+
+---
+## Event Emitter
+
+- Used for continuous actions.
+- **Node.js** uses for almost everything in your ecosystem.
+- Quite also used in browsers (.onClick).
+- It work under Design Pattern Observer / PubSub]
