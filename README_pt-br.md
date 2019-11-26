@@ -74,5 +74,5 @@ Para executar linhas de comando do NPM, execute o comando <code>npm run "nome-da
 
 ---
 ## Modulo 02 - Comandos
-<code>npm init -y</code> -> Inicia o projeto com Node.js
-<code>npm install axios</code> -> Instala a biblioteca Axios
+- <code>npm init -y</code> -> Inicia o projeto com Node.js
+- <code>npm install axios</code> -> Instala a biblioteca Axios
