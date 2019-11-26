@@ -71,3 +71,8 @@ Para executar linhas de comando do NPM, execute o comando <code>npm run "nome-da
 - **Node.js** usa para quase tudo em seu ecossistema.
 - Bastante usado também nos browser (.onClick).
 -Trabalha sob o Design Pattern Observer/PubSub
+
+---
+## Modulo 02 - Comandos
+<code>npm init -y</code> -> Inicia o projeto com Node.js
+<code>npm install axios</code> -> Instala a biblioteca Axios
