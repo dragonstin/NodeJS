@@ -54,4 +54,4 @@ Para executar linhas de comando do NPM, execute o comando <code>npm run "nome-da
 - **Rejected:** Quando a operação falhou.
 
 ---
-
+**Note:** iniciar projecto ->  npm init -y
