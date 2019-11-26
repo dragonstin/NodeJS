@@ -54,4 +54,25 @@ Para executar linhas de comando do NPM, execute o comando <code>npm run "nome-da
 - **Rejected:** Quando a operação falhou.
 
 ---
-**Note:** iniciar projecto ->  npm init -y
+## Promises - ASYNC/AWAIT
+
+**Async** antes de uma função, representa que a função sempre retorna uma promise.
+**Await** funciona apenas dentro de funções Async, e faz o JavaScript esperar até que a promise retorne o resultado.
+
+- Facilita a visualização do fluxo de funções.
+- Não altera a performance de sua aplicação (caso seja usado de forma correta).
+- Já existente no C# foi desenvolvido no JavaScript.
+- Usar apenas quando necessitar tratar a resposta da chamada (Await).
+
+---
+## Event Emitter
+
+- Usado para ações contínuas.
+- **Node.js** usa para quase tudo em seu ecossistema.
+- Bastante usado também nos browser (.onClick).
+-Trabalha sob o Design Pattern Observer/PubSub
+
+---
+## Modulo 02 - Comandos
+<code>npm init -y</code> -> Inicia o projeto com Node.js
+<code>npm install axios</code> -> Instala a biblioteca Axios
