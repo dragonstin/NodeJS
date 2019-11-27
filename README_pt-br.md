@@ -15,6 +15,7 @@ Estudando Node.js por meio do Curso da NodeBR.
 - NPM (Node Package Manager) é reponsável por gerênciar as dependências(package.json) do projeto.
 
 ---
+
 ## Instalação
 
 - Instale Node.js em seu computador <https://nodejs.org/pt-br/>.
@@ -25,6 +26,7 @@ Estudando Node.js por meio do Curso da NodeBR.
 - Para iniciar um projeto Node.js, execute o comando <code>npm init</code> (or <code>npm init -y</code> para executar com as configurações padrão).
 
 ---
+
 ## Usando NPM para escrever linhas de comando
 
 NPM também pode ser usando para escrever linhas de comando.
@@ -40,6 +42,7 @@ Nesse trecho de código, é demonstrada a função "dev".
 Para executar linhas de comando do NPM, execute o comando <code>npm run "nome-da-seu-funcao-aqui"</code>, com base no trecho de código acima, a linha deve ser <code>npm run dev</code>.
 
 ---
+
 ## Ciclo de vida do JavaScript
 
 - Funções que necessitam de recursos externos (acesso ao banco de dados ou arquivos) serão executados em background.
@@ -47,6 +50,7 @@ Para executar linhas de comando do NPM, execute o comando <code>npm run "nome-da
 - Lembre-se de manter a sequência do seu programa para evitar problemas.
 
 ---
+
 ## Ciclo de vida de Promisses
 
 - **Pending:** Estado inicial, ainda não terminou ou ainda não foi rejeitado.
@@ -54,6 +58,7 @@ Para executar linhas de comando do NPM, execute o comando <code>npm run "nome-da
 - **Rejected:** Quando a operação falhou.
 
 ---
+
 ## Promises - ASYNC/AWAIT
 
 **Async** antes de uma função, representa que a função sempre retorna uma promise.
@@ -65,6 +70,7 @@ Para executar linhas de comando do NPM, execute o comando <code>npm run "nome-da
 - Usar apenas quando necessitar tratar a resposta da chamada (Await).
 
 ---
+
 ## Event Emitter
 
 - Usado para ações contínuas.
@@ -73,6 +79,18 @@ Para executar linhas de comando do NPM, execute o comando <code>npm run "nome-da
 -Trabalha sob o Design Pattern Observer/PubSub
 
 ---
+
 ## Modulo 02 - Comandos
+
 - <code>npm init -y</code> -> Inicia o projeto com Node.js
 - <code>npm install axios</code> -> Instala a biblioteca Axios
+
+---
+
+## Modulo 03 - Configuração do clico de testes
+
+- <code>npm init -y</code> -> Inicia o projeto com Node.js
+- <code>npm install axios</code> -> Instala a biblioteca Axios
+- <code>npm install -g mocha</code> -> Instala a biblioteca Mocha globalmente
+- <code>npm i --save-dev mocha</code> -> Instala o Mocha como dependência de desenvolvimento
+- <code>npm install nock</code> -> Instala o pacote nock, para simular requisições 
