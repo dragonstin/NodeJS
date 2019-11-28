@@ -87,10 +87,12 @@ Para executar linhas de comando do NPM, execute o comando <code>npm run "nome-da
 
 ---
 
-## Modulo 03 - Configuração do clico de testes
+## Modulo 03 - Configuração do ciclo de testes
 
 - <code>npm init -y</code> -> Inicia o projeto com Node.js
 - <code>npm install axios</code> -> Instala a biblioteca Axios
 - <code>npm install -g mocha</code> -> Instala a biblioteca Mocha globalmente
 - <code>npm i --save-dev mocha</code> -> Instala o Mocha como dependência de desenvolvimento
 - <code>npm install nock</code> -> Instala o pacote nock, para simular requisições 
+
+---
