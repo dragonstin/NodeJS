@@ -2,7 +2,7 @@
 
 Studying Node.js through the NodeBR course.
 
-Versão em Português-BR <README_pt-br.md>
+Versão em [Português-BR](https://github.com/fernandadagostin/NodeJS/blob/master/README_pt-br.md)
 
 ---
 
@@ -73,3 +73,17 @@ To execute line commands with NPM it is used the command <code>npm run "name-of-
 - **Node.js** uses for almost everything in your ecosystem.
 - Quite also used in browsers (.onClick).
 - It work under Design Pattern Observer / PubSub]
+
+---
+
+## Test cycle settings
+
+- <code>npm init -y</code> -> Start Node.js project
+- <code>npm install axios</code> -> Insall Axios Lib
+- <code>npm install -g mocha</code> -> Install Mocha globally
+- <code>npm i --save-dev mocha</code> -> Install Mocha as a development dependency
+- <code>npm install nock</code> -> Install the Nock package. It's used to simulate requests
+
+---
+
+## Creating line commands tools
