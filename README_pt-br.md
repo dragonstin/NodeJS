@@ -96,3 +96,7 @@ Para executar linhas de comando do NPM, execute o comando <code>npm run "nome-da
 - <code>npm install nock</code> -> Instala o pacote nock, para simular requisições 
 
 ---
+
+## Modulo 04 - Usando o Comander
+
+- <code>npm install commander</code> -> Instala o pacote Commander para utilização de ferramentas de linha de comando.
