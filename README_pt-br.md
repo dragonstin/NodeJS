@@ -100,3 +100,10 @@ Para executar linhas de comando do NPM, execute o comando <code>npm run "nome-da
 ## Modulo 04 - Usando o Comander
 
 - <code>npm install commander</code> -> Instala o pacote Commander para utilização de ferramentas de linha de comando.
+
+---
+
+## Modulo 05 - Padrão Strategy
+
+- Padrão Strategies(GOF)- é um padrão comportamental. 
+- Trabalhando com multi-databases  
