@@ -108,13 +108,20 @@ Para executar linhas de comando do NPM, execute o comando <code>npm run "nome-da
 - Padrão Strategies(GOF)- é um padrão comportamental. 
 - Trabalhando com multi-databases  
 
-**Docker Instalation**
-1- No Windows 10 home ou enterprise é necessário instalar o docker toolbox, nesse link tem um tutorial(está em inglês, mas dá para acompanhar pelas imagens) https://docs.docker.com/toolbox/toolbox_install_windows/
-1.a- No item "Step 3: Verify your installation" do tutorial execute o "Docker Quickstart Terminal" (imagem 1), execute o comando "docker run hello-world" e verifique o resultado conforme a imagem 4.
+### Docker Instalation
+ 
+ 1- No Windows 10 home ou enterprise é necessário instalar o docker toolbox, nesse link tem um tutorial(está em inglês, mas dá para acompanhar pelas imagens) https://docs.docker.com/toolbox/toolbox_install_windows/
 
-2- Após instalar o docker, segue o vídeo (me confundiu o fato de ser demonstrado a imagem do Mongodb e do postgres nesse momento, porém essas imagens serão baixadas/instaladas por linha de comando ao longo do vídeo).
+ 1.a- No item "Step 3: Verify your installation" do tutorial execute o "Docker Quickstart Terminal" (imagem 1), execute o comando "docker run hello-world" e verifique o resultado conforme a imagem 4.
 
-3- Acessar o Adminer (interface): http://192.168.99.100:8080/ (no vídeo é demonstrado o link localhost:8080 porém no windows é necessário utilizar esse ip, o mesmo acontece no link do mongodb)
-4- Acessar o Mongodb: http://192.168.99.100:3000/ (no vídeo é demonstrado o link localhost:3000 porém no windows é necessário utilizar esse ip)
+ 2- Após instalar o docker, segue o vídeo (me confundiu o fato de ser demonstrado a imagem do Mongodb e do postgres nesse momento, porém essas imagens serão baixadas/instaladas por linha de comando ao longo do vídeo). 
+ 
+ 2.a- Os comandos demonstrado no video e outros que utilizei estão nesse link <https://github.com/fernandadagostin/NodeJS/tree/master/modulo-5/07-multi-db/README.md>
 
-5- Os comandos utilizados no vídeo, estão disponíveis nesse arquivo: https://github.com/fernandadagostin/NodeJS/tree/master/modulo-5/07-multi-db 
+ 3- Acessar o Adminer (interface): http://192.168.99.100:8080/ (no vídeo é demonstrado o link localhost:8080 porém no windows é necessário utilizar esse ip, o mesmo acontece no link do mongodb)
+
+ 4- Acessar o Mongodb: http://192.168.99.100:3000/ (no vídeo é demonstrado o link localhost:3000 porém no windows é necessário utilizar esse ip)
+
+ 5- Os comandos utilizados no vídeo, estão disponíveis nesse arquivo: https://github.com/fernandadagostin/NodeJS/tree/master/modulo-5/07-multi-db 
+
+---
