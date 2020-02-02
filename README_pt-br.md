@@ -106,7 +106,8 @@ Para executar linhas de comando do NPM, execute o comando <code>npm run "nome-da
 ## Modulo 05 - Padrão Strategy
 
 - Padrão Strategies(GOF)- é um padrão comportamental. 
-- Trabalhando com multi-databases  
+- Trabalhando com multi-databases.
+- Trabalha fortemente com a orientação à objetos.
 
 ### Docker Instalation
  
@@ -125,3 +126,4 @@ Para executar linhas de comando do NPM, execute o comando <code>npm run "nome-da
  5- Os comandos utilizados no vídeo, estão disponíveis nesse arquivo: https://github.com/fernandadagostin/NodeJS/tree/master/modulo-5/07-multi-db 
 
 ---
+Ainda no modulo 5
