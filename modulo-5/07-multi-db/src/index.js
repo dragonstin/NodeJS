@@ -3,7 +3,7 @@ const MongoDB = require('./db/strategies/mongodb')
 const Postgres = require('./db/strategies/postgres')
 
 const contextMongo = new ContextStrategy(new MongoDB())
-contextMongo.create()
+console.log(contextMongo.create())
 
 const contextPostgres = new ContextStrategy(new Postgres())
-contextPostgres.create()
+console.log(contextPostgres.create())
